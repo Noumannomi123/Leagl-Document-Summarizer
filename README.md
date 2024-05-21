@@ -1,4 +1,4 @@
-# Leagl-Document-Summarizer
+# Legal-Document-Summarizer
 The goal of this project is to summarize legal documents. The project uses natural language processing techniques to extract the most important information from legal documents and generate a concise summary.
 
 ## Dataset used:
