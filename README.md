@@ -1,0 +1,1 @@
+# Leagl-Document-Summarizer
